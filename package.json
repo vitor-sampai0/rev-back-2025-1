@@ -1,0 +1,21 @@
+{
+  "name": "rev-back-2025-1",
+  "version": "1.0.0",
+  "description": "Projeto de revisão sobre back-end SENAI 2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Senai",
+    "Git",
+    "git",
+    "senai",
+    "js",
+    "JS",
+    "node",
+    "Node"
+  ],
+  "author": "Vitor Sampaio",
+  "license": "MIT"
+}
